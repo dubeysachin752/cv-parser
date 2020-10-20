@@ -1,0 +1,21 @@
+FILE NAME,NAME,EMAIL1,EMAIL2,EMAIL3,EMAIL4,PHONE1,PHONE2,PHONE3,PHONE4,INSTITUTES1,YEARS1,INSTITUTES2,YEARS2,INSTITUTES3,YEARS3,INSTITUTES4,YEARS4,INSTITUTES5,YEARS5,EXPERIENCE,DEGREES
+resumes\mehul m modi.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\ca manoj k  jain.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Sai Kishore.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Yogesh Kumar - Tanzil blitzjobs.docx,None,yogeshkumar89.ggn@gmail.com,,,,+85255353571,+85255353571,+919560141711,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Yogesh_Kumar - Karthiktejamiriyala. blitzjobs.docx,None,yogeshkumar89.ggn@gmail.com,,,,+85255353571,+85255353571,+919560141711,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\A_2mehul m modi.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vikash_resume - Rakesh Bhatt.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Santhosh K.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\A_1ca manoj k  jain.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Akash Hv.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Zinkal_Thakker__Ahmedabad_1.10_yrs - Angira Mitra.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Yogesh_Kumar - Sayan Biswas.docx,None,yogeshkumar89.ggn@gmail.com,,,,+85255353571,+85255353571,+919560141711,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\VSNN Murthy Tadinada - HARISH R 19MBA016.docx,None,tvsnnmurthy@google.com,,,,+91 99890 56349,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\A_3neeraj goel.docx,None,,,,,91-124 4227884,9811013037,9313304627,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Yathish R.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Sai Kishore.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vikash_resume - Rakesh Bhatt.docx,None,,,,,,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\Vinodkumar Yadav - Yathish R.docx,None,vinodkinjal@gmail.com,,,,+91) 7899-337-427,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\VSNN Murthy Tadinada - HARISH R 19MBA016.docx,None,tvsnnmurthy@google.com,,,,+91 99890 56349,,,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
+resumes\A_3neeraj goel.docx,None,,,,,91-124 4227884,9811013037,9313304627,,I.C.A.I,0,NULL,0,NULL,0,NULL,0,NULL,0,0,NONE
